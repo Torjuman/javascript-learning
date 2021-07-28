@@ -1,3 +1,4 @@
+// And (&&) operator
 // A && B
 // true && true = true
 // true && false = false
@@ -15,6 +16,7 @@ if (a > b && c > d) {
     console.log('At least one condition should be true')
 }
 
+// Or (||) operator
 // A || B
 // true || true = true
 // true || false = true
@@ -26,3 +28,9 @@ if (a > b || c > d) {
 } else {
     console.log('Both condition are false.')
 }
+
+
+// Not (!) operator
+
+var test = !(a > b)
+console.log(test)
