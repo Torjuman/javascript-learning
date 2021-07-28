@@ -34,3 +34,14 @@ if (a > b || c > d) {
 
 var test = !(a > b)
 console.log(test)
+
+// Short Hand
+
+var name = ''
+var fullName = name || 'Torjuman Rimon'
+
+console.log(fullName)
+
+var isOkay = true
+
+isOkay && console.log('Everything is Okay.')
