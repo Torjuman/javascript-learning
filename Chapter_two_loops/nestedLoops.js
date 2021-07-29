@@ -31,3 +31,14 @@ for (var i = 1; i <= lineForStar; i++) {
     }
     console.log(star)
 }
+
+// Print same number in each row
+var p = 5
+
+for (var i = 1; i <= p; i++) {
+    var q = ''
+    for (var j = 1; j <= i; j++) {
+        q += i + ' '
+    }
+    console.log(q)
+}
