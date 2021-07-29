@@ -82,3 +82,18 @@ for (var i = n; i >= 1; i--) {
     }
     console.log(e)
 }
+
+// Right to left triangle Opt
+
+for (var i = 1; i <= n; i++) {
+    var f = ''
+    for (var k = 1; k < i; k++) {
+        f += ' ' + ' '
+    }
+
+    for (var j = i; j <= n; j++) {
+        f += '* '
+    }
+
+    console.log(f)
+}
