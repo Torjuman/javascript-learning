@@ -14,3 +14,20 @@ for (var i = 1; i <= n; i++) {
     }
     console.log(result)
 }
+
+// Make a square by star
+// * * * * *
+// * * * * *
+// * * * * *
+// * * * * *
+// * * * * *
+
+var lineForStar = 5
+
+for (var i = 1; i <= lineForStar; i++) {
+    var star = ''
+    for (var j = 1; j <= lineForStar; j++) {
+        star += '* '
+    }
+    console.log(star)
+}
