@@ -97,3 +97,18 @@ for (var i = 1; i <= n; i++) {
 
     console.log(f)
 }
+
+// Pyramid from opt
+
+for (var i = 1; i <= n; i++) {
+    var f = ''
+    for (var k = 1; k < i; k++) {
+        f += ' '
+    }
+
+    for (var j = i; j <= n; j++) {
+        f += '* '
+    }
+
+    console.log(f)
+}
