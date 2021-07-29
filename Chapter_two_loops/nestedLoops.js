@@ -72,3 +72,13 @@ for (var i = 0; i <= c; i++) {
     }
     console.log(d)
 }
+
+// Right to left triangle
+
+for (var i = n; i >= 1; i--) {
+    var e = ''
+    for (var j = 1; j <= i; j++) {
+        e += '* '
+    }
+    console.log(e)
+}
