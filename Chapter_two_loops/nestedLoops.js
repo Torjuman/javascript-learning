@@ -46,7 +46,7 @@ for (var i = 1; i <= p; i++) {
 // Print number in pyramid
 var x = 5
 
-for (var i = 1; i <= p; i++) {
+for (var i = 1; i <= x; i++) {
     var y = ''
     for (var k = 0; k <= (p - i); k++) {
         y += ' '
@@ -56,4 +56,19 @@ for (var i = 1; i <= p; i++) {
         y += i + ' '
     }
     console.log(y)
+}
+
+// Print number in X perttern and take var c in even number
+var c = 16
+
+for (var i = 0; i <= c; i++) {
+    var d = ''
+    for (var j = 0; j <= c; j++) {
+        if (i === j || i + j === c) {
+            d += '*'
+        } else {
+            d += ' '
+        }
+    }
+    console.log(d)
 }
