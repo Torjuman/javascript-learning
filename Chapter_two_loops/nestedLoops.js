@@ -42,3 +42,18 @@ for (var i = 1; i <= p; i++) {
     }
     console.log(q)
 }
+
+// Print number in pyramid
+var x = 5
+
+for (var i = 1; i <= p; i++) {
+    var y = ''
+    for (var k = 0; k <= (p - i); k++) {
+        y += ' '
+    }
+    
+    for (var j = 1; j <= i; j++) {
+        y += i + ' '
+    }
+    console.log(y)
+}
