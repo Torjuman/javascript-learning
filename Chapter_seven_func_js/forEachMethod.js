@@ -3,8 +3,8 @@ var arr = [7, 5, 3, 1]
 
 console.log(arr)
 
-arr.forEach(function (value, index, array) {
-    console.log(value, index, array)
+var st = arr.forEach(function (value, index, array) {
+    // console.log(value, index, array)
     array[index] = value * 5
 })
 
