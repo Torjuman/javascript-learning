@@ -19,3 +19,27 @@ arr.sort(function (a, b) {
 })
 
 console.log(arr)
+
+// Sort in object
+var persons = [
+    {name: 'A', age: 12},
+    {name: 'B', age: 19},
+    {name: 'C', age: 25},
+    {name: 'D', age: 18},
+]
+
+persons.sort()
+console.log(persons)
+
+// Rearrange them in deccending order.
+
+persons.sort(function(a, b) {
+    if (a.age > b.age) {
+        return -1
+    } else if (a.age < b.age) {
+        return 1
+    } else {
+        return 0
+    }
+})
+console.log(persons)
