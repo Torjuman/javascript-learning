@@ -15,7 +15,14 @@ function createRectangle(width, height) {
             // To get the properties value from this function we don't have to use 'this' key word.
             console.log('My width is ' + width)
             console.log('My height is ' + height)
-        }
+
+            // But to call another function from this function, we have to add 'this' key word before calling the function.
+            this.draw()
+        },
+
+        draw: function () {
+            console.log('I am from draw function.')
+        },
     }
 }
 
