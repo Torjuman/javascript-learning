@@ -33,3 +33,7 @@ function myTest3(c, d) {
 
 // We can provide arguments as well.
 myTest3.call({a: 15, b: 12}, 25, 32)
+
+// We can use apply instead of 'call' method.
+// It will work like 'call' but it take Array in arguments.
+myTest3.apply({a: 15, b: 12}, [2, 3])
