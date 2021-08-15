@@ -37,3 +37,8 @@ myTest3.call({a: 15, b: 12}, 25, 32)
 // We can use apply instead of 'call' method.
 // It will work like 'call' but it take Array in arguments.
 myTest3.apply({a: 15, b: 12}, [2, 3])
+
+// 'Bind' method will not be called immediately.
+// So it should be stored in a variable.
+var res = myTest3.bind({a: 15, b: 12}, 5, 3)
+res()
