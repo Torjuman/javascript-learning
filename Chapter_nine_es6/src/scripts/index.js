@@ -1,3 +1,5 @@
 import '../styles/index.scss'
 
-import '../scripts/templateString.js'
+// import '../scripts/templateString.js'
+
+import '../scripts/arrowFunctionSyntex.js'
