@@ -8,4 +8,6 @@ import '../styles/index.scss'
 
 // import '../scripts/defaultParameters.js'
 
-import '../scripts/restAndSpread.js'
+// import '../scripts/restAndSpread.js'
+
+import '../scripts/destructuring.js'
