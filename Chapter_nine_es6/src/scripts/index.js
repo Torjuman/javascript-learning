@@ -4,4 +4,6 @@ import '../styles/index.scss'
 
 // import '../scripts/arrowFunctionSyntex.js'
 
-import '../scripts/arrowAndThis.js'
+// import '../scripts/arrowAndThis.js'
+
+import '../scripts/defaultParameters.js'
