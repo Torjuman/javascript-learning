@@ -6,4 +6,6 @@ import '../styles/index.scss'
 
 // import '../scripts/arrowAndThis.js'
 
-import '../scripts/defaultParameters.js'
+// import '../scripts/defaultParameters.js'
+
+import '../scripts/restAndSpread.js'
