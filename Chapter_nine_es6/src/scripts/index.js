@@ -10,4 +10,6 @@ import '../styles/index.scss'
 
 // import '../scripts/restAndSpread.js'
 
-import '../scripts/destructuring.js'
+// import '../scripts/destructuring.js'
+
+import '../scripts/fromEntries.js'
