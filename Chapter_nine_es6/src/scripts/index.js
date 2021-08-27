@@ -14,4 +14,6 @@ import '../styles/index.scss'
 
 // import '../scripts/fromEntries.js'
 
-import '../scripts/iteratorBasic.js'
+// import '../scripts/iteratorBasic.js'
+
+import '../scripts/symboleIterator.js'
