@@ -12,4 +12,6 @@ import '../styles/index.scss'
 
 // import '../scripts/destructuring.js'
 
-import '../scripts/fromEntries.js'
+// import '../scripts/fromEntries.js'
+
+import '../scripts/iteratorBasic.js'
