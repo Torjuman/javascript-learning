@@ -16,4 +16,8 @@ import '../styles/index.scss'
 
 // import '../scripts/iteratorBasic.js'
 
-import '../scripts/symboleIterator.js'
+// import '../scripts/symboleIterator.js'
+
+import '../scripts/forOfLoop.js'
+
+
