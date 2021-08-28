@@ -18,6 +18,8 @@ import '../styles/index.scss'
 
 // import '../scripts/symboleIterator.js'
 
-import '../scripts/forOfLoop.js'
+// import '../scripts/forOfLoop.js'
+
+import '../scripts/customIterableObject.js'
 
 
