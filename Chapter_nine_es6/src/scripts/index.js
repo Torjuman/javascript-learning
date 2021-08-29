@@ -20,6 +20,8 @@ import '../styles/index.scss'
 
 // import '../scripts/forOfLoop.js'
 
-import '../scripts/customIterableObject.js'
+// import '../scripts/customIterableObject.js'
+
+import '../scripts/generator.js'
 
 
