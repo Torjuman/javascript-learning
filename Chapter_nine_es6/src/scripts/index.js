@@ -22,6 +22,6 @@ import '../styles/index.scss'
 
 // import '../scripts/customIterableObject.js'
 
-import '../scripts/generator.js'
+// import '../scripts/generator.js'
 
-
+import '../scripts/checkIterate.js'
