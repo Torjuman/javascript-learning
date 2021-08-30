@@ -26,4 +26,6 @@ import '../styles/index.scss'
 
 // import '../scripts/checkIterate.js'
 
-import '../scripts/setCollection.js'
+// import '../scripts/setCollection.js'
+
+import '../scripts/mapCollection.js'
