@@ -24,4 +24,6 @@ import '../styles/index.scss'
 
 // import '../scripts/generator.js'
 
-import '../scripts/checkIterate.js'
+// import '../scripts/checkIterate.js'
+
+import '../scripts/setCollection.js'
