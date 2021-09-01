@@ -30,4 +30,6 @@ import '../styles/index.scss'
 
 // import '../scripts/mapCollection.js'
 
-import '../scripts/weakSetFunction.js'
+// import '../scripts/weakSetFunction.js'
+
+import '../scripts/weakMapFunction.js'
