@@ -28,4 +28,6 @@ import '../styles/index.scss'
 
 // import '../scripts/setCollection.js'
 
-import '../scripts/mapCollection.js'
+// import '../scripts/mapCollection.js'
+
+import '../scripts/weakSetFunction.js'
