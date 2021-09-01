@@ -3,7 +3,7 @@
 
 let a = {a: 'a'}, b = {b: 'b'}
 
-let weakMap = new WeakMap([[a, 10], [b, 45])
+let weakMap = new WeakMap([[a, 10], [b, 45]])
 
 a = null
 
