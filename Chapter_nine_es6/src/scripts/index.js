@@ -32,4 +32,6 @@ import '../styles/index.scss'
 
 // import '../scripts/weakSetFunction.js'
 
-import '../scripts/weakMapFunction.js'
+// import '../scripts/weakMapFunction.js'
+
+import '../scripts/classInJS.js'
