@@ -34,4 +34,6 @@ import '../styles/index.scss'
 
 // import '../scripts/weakMapFunction.js'
 
-import '../scripts/classInJS.js'
+// import '../scripts/classInJS.js'
+
+import '../scripts/classProperties.js'
