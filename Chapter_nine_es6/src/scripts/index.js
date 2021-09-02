@@ -36,4 +36,6 @@ import '../styles/index.scss'
 
 // import '../scripts/classInJS.js'
 
-import '../scripts/classProperties.js'
+// import '../scripts/classProperties.js'
+
+import '../scripts/staticMethod.js'
