@@ -40,4 +40,6 @@ import '../styles/index.scss'
 
 // import '../scripts/staticMethod.js'
 
-import '../scripts/thisInClass.js'
+// import '../scripts/thisInClass.js'
+
+import '../scripts/privateData.js'
