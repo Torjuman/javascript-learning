@@ -44,4 +44,6 @@ import '../styles/index.scss'
 
 // import '../scripts/privateData.js'
 
-import '../scripts/privateWeakMap.js'
+// import '../scripts/privateWeakMap.js'
+
+import '../scripts/getterSetterInES6.js'
