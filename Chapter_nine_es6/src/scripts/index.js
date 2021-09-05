@@ -42,4 +42,6 @@ import '../styles/index.scss'
 
 // import '../scripts/thisInClass.js'
 
-import '../scripts/privateData.js'
+// import '../scripts/privateData.js'
+
+import '../scripts/privateWeakMap.js'
